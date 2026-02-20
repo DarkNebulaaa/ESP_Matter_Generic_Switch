@@ -7,5 +7,5 @@
 
 ## Assembled Board
 <p align="center">
-    <img src="PCB.png" width="48%">
+    <img src="pcb.png" width="48%">
 </p>  
